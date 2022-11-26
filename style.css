@@ -1,0 +1,57 @@
+body{
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color:rgb(240, 75, 75);
+    background-color:aqua;
+    
+    
+}
+article{
+   background-color:cornsilk;
+    padding: 40px;
+    margin: 40px;
+}
+#education{
+    background-color:cornsilk;
+    padding: 40px;
+    margin: 40px;
+}
+#internships{
+    background-color:cornsilk;
+    padding: 40px;
+    margin: 40px;
+}
+#projects{
+    background-color:cornsilk;
+    padding: 40px;
+    margin: 40px;
+}
+#contactme{
+    background-color:cornsilk;
+    padding: 40px;
+    margin: 40px;
+}
+h1,h2,h3{ 
+    text-shadow: 0.1px 0.1px  violet;
+    text-align: center;
+    text-decoration: underline black;
+    background-color:cornsilk;
+}
+ul{ 
+    background-color:cornsilk;
+    list-style: none;
+}
+p{ font-style: oblique;
+  background-color:cornsilk;
+}
+li{
+  display:block;
+}
+a{   
+ display: block;
+}
+a:hover{
+ color:orange;
+ cursor: pointer;
+}
